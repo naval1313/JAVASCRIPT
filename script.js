@@ -107,3 +107,9 @@ console.log(newData);
 // const num=[12345]
 // 
 // foer each and map is same but for each does noitvreturn so we can use map.
+
+
+
+// function ansh(){
+// console.log("naval")
+// }
